@@ -1,6 +1,6 @@
 # Image-Classification-Using-CNN 
 Transfer Learning - Image Classification [ Artificial Intelligence ]
-
+ 
 #Part 1
 #importing requirements
 import os
