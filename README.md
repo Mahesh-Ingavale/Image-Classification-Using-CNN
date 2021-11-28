@@ -1,4 +1,4 @@
-# Image-Classification-Using-CNN  
+# Image-Classification-Using-CNN 
 Transfer Learning - Image Classification [ Artificial Intelligence ]
  
 #Part 1
